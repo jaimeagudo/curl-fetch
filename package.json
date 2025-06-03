@@ -1,0 +1,24 @@
+{
+  "name": "simple-curl-fetch",
+  "version": "1.0.0",
+  "description": "Drop-in replacement for fetch that console.log's a `curl` equivalent command. Handy for debugging, 0 dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/jaimeagudo/curl-fetch"
+  },
+  "keywords": [
+    "curl",
+    "fetch",
+    "debug",
+    "log"
+  ],
+  "author": "Jaime Agudo",
+  "license": "CC-BY-4.0",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
